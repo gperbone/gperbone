@@ -1,6 +1,6 @@
 ### Hi there! I'm Gustavo 👋
 
-- 👨🏻‍💻 I’m currently studying iOS development
+- 👨🏻‍💻 I’m currently studying iOS development and Python/SQL/Data Science
 - 📓 I’m participating in a bootcamp by ioasys
 - 📚 I’m very interested in Data Science
 - 🎭 I love musical theater.
