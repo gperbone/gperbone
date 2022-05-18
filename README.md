@@ -1,12 +1,8 @@
 ### Hi there! I'm Gustavo 👋
 
-- 👨🏻‍💻 I’m currently studying iOS development and Python/SQL/Data Science
-- 📓 I’m participating in a bootcamp by ioasys
-- 📚 I’m very interested in Data Science
+- 👨🏻‍💻 I’m currently studying Python/SQL/Data Science 👾
 - 🎭 I love musical theater.
 - 😄 Pronouns: he/him
-
-⚡️ Currently, I'm on day 4️⃣7️⃣ of 100 Days of SwiftUI! 
 
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gperbone&layout=compact">
