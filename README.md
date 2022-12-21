@@ -2,8 +2,14 @@
 
 - 👨🏻‍💻 I’m currently looking for opportunities in Data (data science, data engineering...) 👾
 - 🕵️ I'm very interested in how data can improve and change the world 🤔
+- 💻 I am very curious and I love to learn and search new stuff
 - 🎭 I love musical theater.
 - 😄 Pronouns: he/him
+
+## Top Projects / Portfolio:
+* EDA / DataViz: [World Happiness Index](https://github.com/gperbone/topcoders-curso-python-dados/tree/main/0%20-%20Projetos/Projeto-3) | [Hotel Bookings](https://github.com/gperbone/topcoders-curso-python-dados/tree/main/0%20-%20Projetos/Projeto-4)
+* SQL:[Tech Courses School Database](https://github.com/gperbone/topcoders-curso-python-dados/tree/main/0%20-%20Projetos/Projeto-5)
+* Machine Learning: [Credit Default Risk](https://github.com/gperbone/topcoders-curso-python-dados/tree/main/0%20-%20Projetos/Projeto-7)
 
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gperbone&layout=compact">
