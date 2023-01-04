@@ -25,3 +25,5 @@
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="numpy" width="40" height="40"/> </a>
    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png?raw=true" alt="scikit-learn" width="55" height="40"/> </a>
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=91283147)
