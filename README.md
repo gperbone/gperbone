@@ -11,9 +11,11 @@
 * SQL: [Tech Courses School Database](https://github.com/gperbone/topcoders-curso-python-dados/tree/main/0%20-%20Projetos/Projeto-5)
 * Machine Learning: [Credit Default Risk](https://github.com/gperbone/topcoders-curso-python-dados/tree/main/0%20-%20Projetos/Projeto-7)
 
+<!---
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gperbone&layout=compact">
 </p>
+-->
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
