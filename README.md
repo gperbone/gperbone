@@ -1,6 +1,6 @@
 ### Hi there! I'm Gustavo 👋
 
-- 👨🏻‍💻 I’m currently looking for opportunities in Data (data science, data engineering...) 👾
+- 👨🏻‍💻 I’m currently looking for opportunities in Data (data science, data analysis...) 👾
 - 🕵️ I'm very interested in how data can improve and change the world 🤔
 - 💻 I am very curious and I love to learn and search new stuff
 - 🎭 I love musical theater.
