@@ -9,7 +9,7 @@
 ## Top Projects / Portfolio:
 * EDA / DataViz: [World Happiness Index](https://github.com/gperbone/topcoders-curso-python-dados/tree/main/0%20-%20Projetos/Projeto-3) | [Hotel Bookings](https://github.com/gperbone/topcoders-curso-python-dados/tree/main/0%20-%20Projetos/Projeto-4)
 * SQL: [Tech Courses School Database](https://github.com/gperbone/topcoders-curso-python-dados/tree/main/0%20-%20Projetos/Projeto-5)
-* Machine Learning: [Credit Default Risk](https://github.com/gperbone/topcoders-curso-python-dados/tree/main/0%20-%20Projetos/Projeto-7)
+* Machine Learning: [Credit Default Risk](https://github.com/gperbone/topcoders-curso-python-dados/tree/main/0%20-%20Projetos/Projeto-7) | [Bank Customer Churn](https://github.com/gperbone/Bank_Customer_Churn)
 
 <!---
 <p align="center">
